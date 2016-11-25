@@ -1,0 +1,54 @@
+body {
+  background-color: #f7f4e1;
+  font-family: 'Passion One', cursive;
+}
+
+.quote {
+  text-align: center;
+  font-size: 30px;
+}
+
+#textspace {
+  margin: 15%;
+  margin-top:5%;
+  background-color: #c2cebe;
+  padding-left: 5%;
+  padding-right: 5%;
+  border-radius: 100px;
+}
+
+#quotemark1 {
+  font-size: 150px;
+  color: grey;
+}
+
+#quotemark2 {
+  font-size: 150px;
+  transform: rotate(180deg);
+  color: grey;
+}
+
+#getQuote {
+  float: right;
+  height: 20px;
+  width: 65px;
+  margin-top: 8%;
+  border-radius: 20px;
+  border: none;
+  background-color: grey;
+  color: white;
+  font-family: sans serif;
+  font-size: 12px;
+  padding-bottom:15px;
+  margin-bottom:15%;
+}
+
+.twitter-share-button {
+  float: right;
+  margin-top: 8%;
+  border-radius: 25px;
+  border: none;
+  background-color: #6ac4b6;
+  color: white;
+  margin-bottom: 15%;
+}
